@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/.vs/WinForms/v16/Server/sqlite3
+/WinForms/bin/Debug
+/WinForms/obj/Debug
+/WinForms.DB/WinForms.DB.sqlproj.user

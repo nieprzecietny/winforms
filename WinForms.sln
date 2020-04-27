@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "WinForms\WinForms.csproj", "{FADB85ED-1F9F-4E4E-827F-B6079916441C}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WinForms.DB", "WinForms.DB\WinForms.DB.sqlproj", "{031D683E-7894-4939-A5B9-7638415BB2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADB85ED-1F9F-4E4E-827F-B6079916441C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADB85ED-1F9F-4E4E-827F-B6079916441C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADB85ED-1F9F-4E4E-827F-B6079916441C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADB85ED-1F9F-4E4E-827F-B6079916441C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031D683E-7894-4939-A5B9-7638415BB2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031D683E-7894-4939-A5B9-7638415BB2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031D683E-7894-4939-A5B9-7638415BB2D6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{031D683E-7894-4939-A5B9-7638415BB2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031D683E-7894-4939-A5B9-7638415BB2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031D683E-7894-4939-A5B9-7638415BB2D6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6500A2E7-BB55-41C0-8D54-812764E4E306}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[FileLoadLog]
+(
+	[Id] INT NOT NULL IDENTITY,
+	[FileName] NVARCHAR(255) NOT NULL,
+	[DateLoad] DATE NOT NULL,
+	CONSTRAINT [PK_FileLoadLog] PRIMARY KEY (Id)
+)
